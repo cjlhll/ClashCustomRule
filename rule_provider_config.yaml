@@ -15,7 +15,6 @@ ruleset=🎮 游戏平台,clash-domain:https://raw.githubusercontent.com/chinnse
 ruleset=🎮 游戏平台,clash-domain:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Steam_domain.yaml
 ruleset=🎮 游戏平台,clash-domain:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Nintendo_domain.yaml
 ruleset=🎮 游戏平台,clash-ipcidr:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Nintendo_ipcidr.yaml,no-resolve
-ruleset=📽️ AppleTV+,clash-domain:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/appletvplus_domain.yaml
 ruleset=🎥 Netflix,clash-domain:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Netflix_domain.yaml
 ruleset=🎥 Netflix,clash-ipcidr:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/NetflixIP_ipcidr.yaml,no-resolve
 ruleset=🎥 Netflix,clash-classic:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Netflix_classical.yaml
